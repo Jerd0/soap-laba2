@@ -1,2 +1,1 @@
-# spring-boot-soap-ws
-How to develop SOAP WebServices using Spring Boot 
+http://localhost:8080/ws/loanEligibility.wsdl как пример
